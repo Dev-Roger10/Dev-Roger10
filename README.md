@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="https://github.com/Dev-Roger10/roger-antezana"><img src="https://img.shields.io/badge/Portafolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio"></a>
+  <a href="https://dev-roger10.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portafolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio"></a>
   <a href="mailto:antezana.rogeranthony10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
